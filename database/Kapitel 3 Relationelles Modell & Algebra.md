@@ -48,10 +48,10 @@ verwendet das joinprädikat $\theta$ nur Vergleiche mittels "=", spricht man auc
 Lässt sich durch geschachtelte Schleifen ( nested loops ) implementieren 
 
 ## Outer Join 
-wir haben full outer join, right outer join und left outer join 
+Wir haben : *full outer join*, *right outer join* und *left outer join* 
 right left gibt an, weo die tupel bleiben ewnn sie keinen join partner finden 
 
-## Natural Join
+## Natural Join…
 was passiert, wenn bei einem natural join keine gemeinsamen attribute vorhanden sind ? 
 Das Join Prädikatist dann leer, und es wird als immer wahr angenommen 
 
