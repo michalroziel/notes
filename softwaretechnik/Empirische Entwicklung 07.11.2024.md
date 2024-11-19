@@ -56,8 +56,6 @@ release often and incrementally
 Metaphora with trains leaving every 10 minutes vs every 5 hours 
 
 
-
-
 ## Inkremente schneiden
 es ist essentiell inkremente schneidet und wie man sie schneidet 
 

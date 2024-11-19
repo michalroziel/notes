@@ -20,13 +20,13 @@ graph TD
 
 graph TD
 
-    A --- B
+    A ---> B
 
-    B --- C
+    B ---> C
 
-    C --- D
+    C ---> D
 
-    A --- D
+    A ---> D
 
 
 
