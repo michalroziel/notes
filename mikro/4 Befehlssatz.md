@@ -215,4 +215,5 @@ MOV R0, #0               ; S ← 0
 
 	SUBS : Subtrahieren und auf 0 prüfen 
 
- 
+*Next WEEK : Ladebefehle !* 
+
