@@ -38,7 +38,7 @@ Tricher - Mogeln
 
 
 
-## Métier 
+## Le choix d'un Métier 
 
 LA femme est une professeure d' allemand das une école à paris 
 
@@ -81,7 +81,7 @@ Trouver un emploi
 (Einen Job finden – d
 
 Avoir de l’expérience
-(Erfahrungen sammeln – 
+(Erfahrungen sammeln –  -> on a beaucoup des connaissances 
 
 Devenir responsable du service
 (Verantwortung übernehmen –
@@ -96,6 +96,7 @@ Devenir responsable du service
 3. Bien gagner sa vie (Gut verdienen):
 
 
+## Testez les Temps 
 
 1. Elle parlait ...
 2. étés avais 

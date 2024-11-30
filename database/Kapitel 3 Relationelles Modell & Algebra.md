@@ -1,4 +1,12 @@
 
+
+
+
+
+
+
+
+
 # Umsetzung schwacher Entity Typen
 
 Ein Schwacher Entity Typ wird zu eigener Relation 
@@ -13,7 +21,8 @@ Die Relation publish kann elimiert werden, da sie aus einem 1:N -Beziehungstyp r
 Records : __[ RecordId]__  , ...
 
 
-# Relationale Algebra 
+# 3.3 Relationale Algebra 
+Wie können wir Daten extrahieren ? d.h Anfragen auf 
 
 
 ## Selektion 
