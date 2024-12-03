@@ -9,7 +9,7 @@ Standarisierung
 Google Guava : Erwiterte Utilities wie immutable Collections, Cache Mechanisms, etc. 
 Apache Commons 
 JUnit : Der aktuelle Standard für Unit-Tests
-Mockito : Simulieren von Tests 
+Mockito : Simulieren von Tests, Mock Up von Objekten 
 JOOQ : Typsichere SQL abfragen mit DSL, ideal für direkten Zugriff 
 JSON : Javascript Object Notation 
 
@@ -35,3 +35,11 @@ Spring Data : Ergänzung zu Spring ; vereinfacht Datenbankzugriffe
 
 ## Bibliothelk vs Framework :
 Sammlung wiederverwendbarer Funktionen <-> Vollständiges Grüst für die Entwicklung von anwedungen 
+
+
+### JUnit 5 = JUnit Pl
+JUnitatform + JUnit Jupiter + JUnit Vintage 
+
+## JOOQ 
+JOOQ generates Jaca code from ypur database and lets you build type safe SQL Queries trough its fluent API 
+
