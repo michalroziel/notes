@@ -91,7 +91,7 @@ Devenir responsable du service
 
 
 
-1. Avoir la sécurité de l’emploi (Jobsicherheit haben):
+1. Avoir la- sécurité de l’emploi (Jobsicherheit haben):
 2. Travailler en équipe (Im Team arbeiten):
 3. Bien gagner sa vie (Gut verdienen):
 
