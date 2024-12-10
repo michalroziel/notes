@@ -1,3 +1,4 @@
+[[Softwaretechnik]]
 # Definition
 ## Code-and-Fix Ansatz 
 - ist eine unstrukturierte Methode in der Softwareentwicklung, bei der die Programmierung ohne vorherige Planung erfolgt

@@ -187,7 +187,6 @@ Restriktivste Variante von Compiler angaben.
 Beispiel : Schleife
 
 ```
-
 int x;
 
 
@@ -208,4 +207,17 @@ Würde die anweisung count aus der Schleife rausziehen
 *volatile* angeben ! und in der *CLobber Liste* memmory angeben ( S.141)
 
 FÜR UNS : Wenn wir in der Praxis Asembler brauchen : Erstmal mit ***Inline Assembler*** versuchen 
+
+
+#### Figure 1 : System architecture for STM32H7A
+...
+STM32H7A kostet 5-10 euro
+Datenspeicher : Write-Allocate oder Write-Through ! 
+Dummy reads auf die gleiche Speicherstelle ?
+Cortex M7
+
+Nächste Woche : Alle möglichen Fragen Stellen 
+
+
+
 
