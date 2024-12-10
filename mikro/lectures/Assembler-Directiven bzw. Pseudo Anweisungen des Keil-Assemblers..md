@@ -1,4 +1,4 @@
-
+[[ARM7]]
 ### Definition von Symbolen mit EQU ( Equate)
 Mit der Pseudo Anweisung EQU kann man einen symbolischen namen definieren und ihm einen Wert zuweisen. Innerhalb eines Moduls ist solch eine Zuweisung nicht veränderbar.
 

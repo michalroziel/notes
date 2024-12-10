@@ -1,4 +1,4 @@
-
+[[ARM7]]
 # 4.1 Datenmanipulationsbefehle 
 
 Die grün hinterlegden befehle sind vergleichsbefehle -> ändern nur die statusbits 

@@ -26,7 +26,10 @@ Wie können wir Daten extrahieren ? d.h Anfragen auf
 
 
 ## Selektion 
-Selektion o (sigma) wählt Tupel (Zeilen) aus einer Relation R anhand einer Selektionsbedingung 
+***Selektion*** o (sigma) wählt Tupel (Zeilen) aus einer Relation R anhand einer Selektionsbedingung aus. 
+
+$\sigma$ [ Location = Ecuador] (Studenten)  
+$\pi$  Die Projektion Pi wählt Attribute aus einer Relation aus 
 
 ### Beispiel
 

@@ -1,4 +1,8 @@
+[[ARM7]]
+
 ## Im folgenden besprechen wir die Eigenschaften des [[ARM7]] Prozessors
+
+
 
 - ARM und ISA ( Instruction Set Architecture ) hängen strikt zusammen
 - Prozessortypen : ARM1 - ARM 8, 
