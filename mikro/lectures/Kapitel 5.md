@@ -10,6 +10,4 @@ EQU Answer 42 , Begriff answer ist gleich mit 42
 EQU ist Anweisung zur Compile zeit 
 
 
-
-
 PROC ???

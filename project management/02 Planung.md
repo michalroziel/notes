@@ -92,3 +92,12 @@ Aus PSP eine Vorgangsliste abzuleiten
 
 
 
+
+# Teil 2 
+
+
+Im Entwurf eines Projektes köennen wir Scheinvorgänge S erstellen, wenn Ein Vorgang zwei Vorgänger hat 
+
+> Wenn wir Scheinvorgänge einbauen, dan an den Vorgang mit der kürzeren Dauer !
+
+
