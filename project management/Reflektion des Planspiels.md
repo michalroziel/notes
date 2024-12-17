@@ -1,4 +1,4 @@
-
+[[Projektmanagment]]
 # Management : 
 Typisch : 15 - 30 % Koordination, Rest : Arbeit in der Gruppe 
 

@@ -1,4 +1,4 @@
-
+[[Projektmanagment]]
 ## Warum ist Planung wichtig ? 
 Festlegen eines Leitfaden und Struktur innerhalb eines Projektes
 Fixen von Fehlern ist teuer für alle 

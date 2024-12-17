@@ -17,8 +17,8 @@ C und Assembly Routinen mischen
 Schlüsselwörter : ``` asm , _asm  oder _asm_ ```
 Jeder Anbieter hat siene eigene Syntax 
 
->
->https://developer.arm.com/documentation/101754/0620/armclang-Reference/armclang-Inline-Assembler
+[ARM Dev Reference](https://developer.arm.com/documentation/101754/0620/armclang-Reference/armclang-Inline-Assembler)
+
 
 ```
 MOV R0, R1, ROR #1
@@ -86,10 +86,12 @@ m -> m für memmory gibt es, kann der Prozessor aber nicht
 *res* ist Register für das nur geschrieben wird
 *val* ist Register für das nur gelesen wird 
 
-> https://developer.arm.com/documentation/100068/0623/Migrating-from-armcc-to-armclang/Inline-assembly-with-Arm-Compiler-for-Embedded-6
+[Inline assembly with Arm Compiler for Embedded](https://developer.arm.com/documentation/100068/0623/Migrating-from-armcc-to-armclang/Inline-assembly-with-Arm-Compiler-for-Embedded-6)
 
 
-> https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
+
+[Extended Asm - Assembler Instructions with C Expression Operands]( https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html)
+ 
 Beispiel aus der Website : 
 ```
 int src = 1;
