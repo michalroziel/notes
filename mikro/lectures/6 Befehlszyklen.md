@@ -26,6 +26,20 @@ vgl Seite 120, $PC_t^+$ und $PC_t^{++}$
 
 Die Multiplikation kann 1-4 Zyklen dauern, dazu kommt noch INSTRUCTION FETCH und WRITE BACK hinzu. 
 
+# 6.2.4 Sprungbefehle 
+
+hat 3 Zyklen 
+
+
+# 6.2.7 Ladebefehl für mehrere Register
+
+
+## 4.10.1.7 Vorzeichenrichtige Erweiterung 
+
+bsp : Lade befehl, vorzeichenrichtige erwiterung, addition 
+
+Ladebefehle kombiniert mit aufgabe -> LDB, LDRSB ? 
+
 
 
 

@@ -53,3 +53,15 @@ Typisch : schleife mit 6,7 anweisungen
 oder viele instruktionen mit vielen unteraufgaben, jede mit 3-4 aufgaben
 
 KIENE C Programs 
+
+
+
+letzte aufgabe : befehle dekodieren, wie viele zyklen, etc... .
+
+
+
+
+
+
+
+
