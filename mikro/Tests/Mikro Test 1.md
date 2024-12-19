@@ -25,9 +25,6 @@ Was ist die ISR ? - Warum brauchen wir diese ?
 ## Condition Flags mit und ohne Vorzeichen !
 
 
-Flash : Geht von Adresse 0x00... bis hin zu 0x39....9 und ist ***READ ONLY*** 
-Datenspeicher ist ***NICHT READ ONLY*** 
-Was für ein Typ ist der Programmspeicher ? -> Flash Speicher 
 
 ```
 RSB <Rd>, <Rn>, <Operand2>
@@ -38,20 +35,12 @@ REGULAR SUB :
 Rd = Rn - Operand2
 
 ```
-
-
-
-
-
-# Versuch 1 
-
-##  Ascii to unsigned int 
-
-beliebige zahl von 0 bis 2^ 32 -1 
-
-
-## Berechnung : 
-Schauen  ob das 16 bit 0 oder 1 ist 
-	wenn 1 dann zweierkomplement bilden 
-
+1. Wann wird die N Flag bei MOVS R10 R10 gesetzt ?
+2. Welches Register ist das Link Register ? -> R14
+3. Wie ruft man das Unterprogramm _Unterprogramm_ auf ? -> BL Unterprogramm
+4. Wo ist die Adresse gespeichert zu der man nach Abschluss des Unterprogramms zurück springt -> LR
+5. RSC R1, R2, R3 -> R1 = R3 - R2 - NOT(C)
+6. ADDS R3, R9, R9 , LSR#3 -> Ergebnis 9-Fache von R9
+7. Was bedeutet die Anweisung Zahl EQU 0x50000100 -> PSeudo Anweisung...
+8. ORRS mit ASR 
 
