@@ -11,3 +11,14 @@ a) EPROM
 b) Flash-PROM 
 c) DRAM 
 d) SRAM 
+
+
+## Was bedeutet das volatile keyword ? 
+
+
+
+
+## Was bedeuten diese REgister ?
+1. TxTCR, TxPR, TxMRy, TxMCR
+
+
