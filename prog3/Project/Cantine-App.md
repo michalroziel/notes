@@ -18,9 +18,10 @@ Zutaten
 
 
 ### Speiseplan
-
-
-
+Wochenplan- Ansicht 
+	Daten : Datum, Uhrzeit 
+Ort 
+Filtern / Sortieren 
 
 # Features : 
 
