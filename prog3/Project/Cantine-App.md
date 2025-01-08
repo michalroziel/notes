@@ -55,6 +55,7 @@ Filtern / Sortieren
 - (Text-To-Speech des Interfaces)
 - (Wenn Karte gescanned : Anzahl der Kunden erhöhen)
 -  à la Duolingo Streaks 
+- emails mit regex überprüfen 
 
 
 
