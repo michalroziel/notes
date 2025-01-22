@@ -1,5 +1,7 @@
 Wie viele UART-Schnittstellen hat der Mikroprozessor ?
 
+2
+
 Wie berechnet man die Baudrate? 
 
 Welche Baudraten sind üblich? Wie viele Stoppbits kann der MP haben? 
