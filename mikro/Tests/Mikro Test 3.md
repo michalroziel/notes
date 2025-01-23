@@ -166,4 +166,12 @@ Die Baudrate wird in den Registern UxDLL und UxDLM gespeichert.
 • Adresse für UART0: 0xE000C004, für UART1: 0xE0010004
 
 
+# Questions :
 
+1. Formel für BAUDRATE angeben : PCLOCK / (16 * Divisor)
+2. Welche Stopp bits kann man einstellen ? : 1 , 2
+3. Welches Register wird zum senden verwendet ? : UxTHR
+4. Welches Reg zur Einstellung der UART ? : PINSELx, UxDLM, UxDLL, UxLCR, UxFCR, UxERR UxIER (x = 0 oder 1 )
+5. Welches Bit wird zuerst gesendet ? : Least Significant Bit ( LSB )
+6. Welches Register wird zum speichern des Frequenz teilers verwendet ? : U0DLL, U1DLM, U1DLL und/- oder U1DLM
+7. Was ist PINSELx ? : SteuerRegister zum Konfiguration von der UART
