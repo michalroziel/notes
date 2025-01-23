@@ -1,5 +1,5 @@
  
-## Wie viele UART-Schnittstellen hat der Micopr ?
+## Wie viele UART-Schnittstellen hat der MP ?
 - 2
 
 Wie berechnet man die Baudrate? 
@@ -19,10 +19,11 @@ Wie berechnet man die Baudrate?
 - 19200
 - 38400
 -  57600 
+- 115200
 
 ## Wie viele Stoppbits kann der MP haben? 
-- 1  - Standard, hohe Effizienz
-- 1,5  - ( üblich bei 5 Datenbits )
+- 1  - Standard, hohe Effizienz 
+- 1.5 - üblich bei 5 Bits 
 - 2   - Bessere Sicherheit und Fehlererkennung 
 
 ## Kann der MP Paritätsprüfung betreiben und wenn ja welche? 
@@ -64,7 +65,8 @@ Wie berechnet man die Baudrate?
 
 UART0 TxD (Senden) P0.0 GPIO0 Pin 0
 
-UART0 RxD (Empfangen) P0.1 GPIO0 Pin 1
+UART0 RxD (Empfangen) P0.1 GPIO0 Pin 1michu
+
 
 UART1 TxD (Senden) P0.8 GPIO0 Pin 8
 
@@ -108,7 +110,7 @@ Beispiel: Ein Pin kann als GPIO, UART Tx, PWM oder SPI genutzt werden.
 
 Jedes Pin in **Port 0 und Port 1** kann durch **2 Bits** im entsprechenden PINSEL-Register konfiguriert werden.
 
-**Bits** **Funktion**
+*Bits** **Funktion**
 00 GPIO (Standard)
 01 Alternative Funktion 1
 10 Alternative Funktion 2
