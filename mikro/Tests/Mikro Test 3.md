@@ -166,7 +166,7 @@ Die Baudrate wird in den Registern UxDLL und UxDLM gespeichert.
 • Adresse für UART0: 0xE000C004, für UART1: 0xE0010004
 
 
-# Questions :
+	# Questions :
 
 1. Formel für BAUDRATE angeben : PCLOCK / (16 * Divisor)
 2. Welche Stopp bits kann man einstellen ? : 1 , 2
