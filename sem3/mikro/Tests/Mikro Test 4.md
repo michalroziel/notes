@@ -9,7 +9,6 @@
 ## Wie viele Externe Interrupts kann man an den Mikroprozessor anschließen?
 Man kann 4 anschließen  : EINT0, EINT1, EINT2, EINT3
 
-
 ## welche pins können als ExtInt eingestellt werden? 
  - Einzelne pins auf Port 0 und 1 
 
@@ -94,3 +93,26 @@ Man kann 4 anschließen  : EINT0, EINT1, EINT2, EINT3
 ## Womit schaltet man die Pin-Funktionen um?
 
     PINSEL0, PINSEL1, PINSEL2
+
+
+
+
+ Wozu wird der Prescaler verwendet ? -> Herunterteilen des **Peripherie** Taktes 
+ 
+ Baudrate Formel 
+ 
+Wo kann die isr im Programmspeicher stehen ? -> Kann frei im Programmspeicehr stehen, adresse muss aber im Register gespeichert werden 
+
+Welche gängige Baudraten gibt es ? -> 300 ,600,....4800, 9600, 19200
+
+2 Fragen zu IODIR : 
+	Was es macht -> Pins als Input / Output deklarieren 
+		und wie kann man Output an Pin 0.1 einstellen 
+
+Wie können Interrupts eingestellt werden ? -> Flankengesteuert , 
+
+Wie kann mein eine steigende Flanke eines Interrupts einstellen -> 	EXTMODE & EXTPOLAR 
+
+In welches Register des Vector-Interrupt-Controlers beinhaltet die Startadresse der Inerrupt-Service Routine vom Kanal 5? ->VicVectAddr5
+
+
