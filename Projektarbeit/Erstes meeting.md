@@ -1,7 +1,7 @@
 
 
 nasa website -> sonnen position 
-	-> JPL -> Rakete untersuchen wird 
+	-> JPL -> jet propulsion lab 
 		API zur Sonnenposition 
 
 Sonnenstrahlung -> unterschiedliche Schemas 
@@ -24,7 +24,6 @@ API Name : Horizons
 
 
 
-
 ## D3.js
 kompliziert 
 Support service zu kaufen 
@@ -44,7 +43,7 @@ Asimuth und Höhe
 Asimuth -> Winkel
 
 Modell eines Gebäudes, Schattenwurf der Oberfläche des Gebäudes 
-	ncie to have, aber nicht nötig 
+	nice to have, aber nicht nötig 
 
 Darstelllung der Sonne auf einer Halbkugel, aufgrund von Asimuth und Evelation 
 Asimuth und Evelation, Betrachter in der Mitte 
@@ -55,10 +54,10 @@ Asimuth und Evelation, Betrachter in der Mitte
 
 npm direkt dabei ? 
 
-'''
+```
 npm --version
+```
 
-'''
 
 ### WebStorm IDE 
 nicht alles via click -> 
@@ -67,7 +66,7 @@ nicht alles via click ->
 **JS** -> Läuft direkt auf dem Browser, gravierende Nachteil : Implizite DatenTypen kann man addieren -> chaotische Programme 
 
 ## VUE JS 
-**software veraltet, erfahrung veraltet nie ! <3**
+software veraltet, erfahrung veraltet nie ! 
 
 
 ## TypesScript 
@@ -89,10 +88,10 @@ Node JS
 ausschließlich auf dem Browser 
 
 CROSSOVER Problem 
-	Proxy zwischen unserer Domain und JPL API benutzen 
+	Proxy zwischen unserer Domain und JPL API benutzen Gestelltes Proxy 
 	JPL bietet keine HTTP Header, damit keine andere domain außer Nasa darauf zugreift 
 
-Gestelltes Proxy 
+
 
 unsere Software spricht nicht mit API sondern mit der Proxy 
 

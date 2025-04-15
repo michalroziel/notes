@@ -1,3 +1,4 @@
+
 Below is a step-by-step explanation of how the **Pumping Lemma for regular languages** is being applied to show that a particular language (with the property \(\lvert w\rvert_a = 2 \cdot \lvert w\rvert_b\)) is **not** regular. I’ll assume the language is:
 
   
