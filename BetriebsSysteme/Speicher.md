@@ -50,6 +50,44 @@ Hardware + OS kümmern sich um Umrechnung im Hintegrund
 [NEXT TIME] : Page Tables, etc.  
 
 
-# Page-Bases Virtual Adressing Zeichnen können 
+## Page-Based Virtual Adressing 
+- basierend auf einer Single-Level Page Table 
+
+## Relocation Problem 
+
+## Speicher für single-level Page Table
+
+Page  Größe : 2^22 ? 
+
+
+### Aufteilung in 4MB Stücke 
+
+Ziel : Unbenutzte Page Tables nicht im Arbeitsspeicher zu referenzieren 
+
+## Einführung eines Page Directory
+
+
+[...]
+
+
+### Virtual Address Translation 
+
+Ziel : Anstatt einer 4MB Page Table : 4KB Page Table 
+
+
+## Page Directory Entry (vereinfacht)
+
+Jede Adresse : 32 Bit 
+Entscheidung mit dem Present-Bit ob der Eintrag valide oder nicht ist 
+
+Base Adresse von Page Table ist in Page Directory 
+Base Adresse von Page Frame ist in Page Table
+
+
+	Folie 99 : Zusammenfassender Vergleich 
+
+
+
+
 
 
