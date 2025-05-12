@@ -67,9 +67,15 @@ in einer kompletten spalte eine gerade anzahl von einsen
 
 Wie wahrscheinlich ist es dass ein Fehler auf eienr Brstimmten Daten Menge vorkommt ? 
 
+
+1 Bitfehler : erkennbar und Korrigierbar 
+2 Bitfheler : Erkennbar, aber nicht korrigierbar 
+
+4 Bitfehler : nicht erkennbar, nicht korrigierbar 
+
 ## Generator Polynom 
 
-wenn wir zwei einsen pbereinander stehen haben 
+wenn wir zwei einsen übereinander stehen haben 
 Generator Polynom wansdert immer mehr nach Rechts 
 
 

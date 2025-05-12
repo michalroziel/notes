@@ -19,3 +19,4 @@ Man kann :
 	
 
 
+Heres a PDF of all the receipts I paid, total is ~192€. Divided by 16 attendees makes 12€/ person. I am aware that not everyone drinks alcohol, so don't feel obliged to pay the full amount, 8€ in that case is fine too.
