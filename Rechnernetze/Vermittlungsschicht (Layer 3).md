@@ -30,6 +30,21 @@ NA :
 BCA : 
 Mögliche Host-Adressen : 
 
-
-
 ```
+
+
+### Idee hinter Datenroutingalgorithmus : 
+
+Datenpaket für mich sebst ? 
+Datenpaket abgelaufen ? 
+... 
+
+- Unicast : 1:1 Kommunikation 
+- MultiCast : 1:N 
+- AnyCast : 1:1 in einer Gruppe
+- BroadCast : 1: "others" - Alle anderen Teilnehmer 
+
+- Kein BroadCast in IPv6 ! 
+
+### Link-Local-Adress 
+
