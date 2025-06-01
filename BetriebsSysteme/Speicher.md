@@ -62,9 +62,12 @@ Variante 2 :
 Hardware + OS kümmern sich um Umrechnung im Hintegrund 
 
 
-## Memory Management Uni - MMU 
+## Memory Management Unit - MMU 
 
 - Verantwortlich für das Mapping von virtuellen auf physische Adressen 
+- Page-basiertes oder Segment-basiertes Mapping
+- Anzahl der Level
+- Größe der Pages
 
 ### Page-Based Virtual Adressing 
 
