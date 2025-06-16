@@ -39,6 +39,8 @@ Datenpaket für mich sebst ?
 Datenpaket abgelaufen ? 
 ... 
 
+# Internet Protocol Version 6
+
 - Unicast : 1:1 Kommunikation 
 - MultiCast : 1:N 
 - AnyCast : 1:1 in einer Gruppe
@@ -48,3 +50,4 @@ Datenpaket abgelaufen ?
 
 ### Link-Local-Adress 
 
+> 

@@ -63,26 +63,33 @@ we are not interested in data types, but types of features
 german : " skalen niveau "
 Essentially : what operations can we apply to them 
 
-### 1 Nominal Features 
-we can compare two values -> is it the same value 
+### 1 Nominal Features  ( =, != )
+we can compare two values -> is it the same value ? 
+> e.g gender of person, color of car 
+
 what is the most frequent value ? 
 ` We can not compute anything with it ` `
 
 does it make sense to compute a mean ? 
 
-### 2 Ordinal Features 
+### 2 Ordinal Features ( < , > )
 We can do everything we can do with nominal features and more 
-There is a natural order in features : 
+
+There is a *natural order* in features : 
+> e.g customer satisfaction level, energy class of car 
+
 A - customer is really satisfied 
 B - customer is okay with it
 C...
 
 
-### 3 Numerical Features 
+### 3 Numerical Features ( +, -, * , / )
 anything we can do with nominal and ordinal feaetures 
 Numerical Features allow arithmetic operations : 
-	income of household,
-	number of emissions,
+
+> e.g income of household, number of emissions,
+
+ We can : compute difference, mean, variance, 
 
 
 EstateType : Nominal Feature 
