@@ -52,7 +52,7 @@ we will focus on structured data
 rows : datapoints 
 columns : features 
 
-there are also un-strucuted and semi-structured data 
+there are also un-structured and semi-structured data 
 
 un-structured : sequence of characters, example : E-Mail 
 semi-structured : content doesnt have a fixed structure
@@ -103,18 +103,6 @@ Unsuoervised Learning : task is not to structure data, but find out what DP do n
 	which temperature points do not make sense -> temp sensor recording 2000º
 
 
-## Regression 
-One ore more features, 
-we want to predict another feature, they are numerical
-we need to make a model assumption 
-
-x-axis feature is given 
-y-axis feature we want to predict 
-
-for hte training data, we know the correct value for y 
-
-we identify a plane, find a plane that best approximates data points 
-how can we fit more complex data points ? 
 
 
 ## Classification 
@@ -127,9 +115,82 @@ backbone of artifical intelligence
 we learn to approximate arbitrary functions 
 	any function that evaluates to true / false 
 
+## Supervised Methods
+Require  Pior Data to learn from, and be able to predict a target feature
+
+## Unsupervised Methods
+Don't require previous Data, Try to make sense out of the Data itself, e.g group DataPoints, or locate Outliers
+
+## Semi-supervised Learning
+Takes both labeled Data (for which the target feaeture is known)
+And unlabeled Data (for which target is unknown)
+## Reinforcement Learning
+Learns to choose suitable Actions to be able to maximize a Reward Function 
+
+
+
 
 # Remember : 
 Types of Features : Nominal, Ordinal, Numerical Features 
 ...
+
+
+
+# Chapter 2 : Regression 
+
+	Aims at predicting a numerical Target Feature
+
+
+
+One ore more features, 
+we want to predict another feature, they are numerical
+we need to make a model assumption 
+
+x-axis feature is given 
+y-axis feature we want to predict 
+
+for hte training data, we know the correct value for y 
+
+we identify a plane, find a plane that best approximates data points 
+how can we fit more complex data points ? 
+
+# Chapter 3 : Classification 
+
+	Aims at prediciting a nominal target feature based on one or multiple numerical features
+
+### Example applications:
+
+- classify an incoming e-mail as spam or not-spam
+
+-  determine sentiment (e.g., negative, neutral, positive) of a customer review for a specific product
+
+
+# Chapter 4 : Clustering 
+
+	Aims at revealing the structure of data by grouping data points 
+
+	Similiar Points are grouped, dissimilar ones are separated 
+
+### Example applications:
+
+- identify segments of customers based on their purchase histories (e.g., for marketing campaigns)
+
+- group newspaper articles according to topic (e.g., to build a portal organized by topics)
+
+# Neural Networks 
+
+	Are the BackBone of Modern Aritifial Intelligence 
+Drive Image recognition, Large Language models 
+
+# Summary 
+
+	Machine learning aims at gaining insights from data and making predictions based on it
+
+- Nominal, ordinal, and numerical features differ in the operations that can be applied to them
+
+- Regression and classification methods are supervised and predict a numerical and nominal target feature, respectively based on other (numerical) features
+
+- Clustering methods are unsupervised and group similar data points together
+
 
 

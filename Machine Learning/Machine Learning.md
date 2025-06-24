@@ -16,3 +16,9 @@ packages :
 numpy, pandas, sklearn, matplotlib 
 
 
+### Euclidean Distance : 
+
+$$
+d(\mathbf{x}_i, \mathbf{x}_j) = \sqrt{ \sum_{l=1}^{m} \left( \mathbf{x}_i(l) - \mathbf{x}_j(l) \right)^2 }
+$$
+
