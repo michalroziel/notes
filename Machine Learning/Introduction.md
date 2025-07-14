@@ -71,7 +71,7 @@ what is the most frequent value ?
 ` We can not compute anything with it ` `
 
 does it make sense to compute a mean ? 
-
+	
 ### 2 Ordinal Features ( < , > )
 We can do everything we can do with nominal features and more 
 
